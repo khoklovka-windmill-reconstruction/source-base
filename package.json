@@ -1,0 +1,17 @@
+{
+  "name": "source-base",
+  "version": "1.0.0",
+  "description": "Источниковая база виртуальной реконструкции мельницы Рахманова из деревни Шихири.",
+  "repository": "https://github.com/khoklovka-windmill-reconstruction/source-base.git",
+  "author": "Vladislav Maksimov <workmaximov@yandex.ru>",
+  "license": "MIT",
+  "scripts": {
+    "serve": "docsify serve ."
+  },
+  "dependencies": {
+    "docsify": "^4.12.2"
+  },
+  "devDependencies": {
+    "docsify-cli": "^4.4.4"
+  }
+}
